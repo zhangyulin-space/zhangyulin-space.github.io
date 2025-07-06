@@ -15,3 +15,4 @@ Welcome to my cognitive psychology notes. Click below to explore:
 - [Challenges to Traditional Views](./challenges_to_traditional_views/)
 - [Symbol Grounding Problem](./symbol_grounding_problem/)
 - [Testing Embodied Cognition](./testing_embodiment/)
+- [About Chat Ferry](./about_chat_ferry/)
