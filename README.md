@@ -13,3 +13,7 @@ Welcome to my personal study notes on **Cognitive Psychology and Embodied Cognit
 ## ✨ Why This Matters
 
 Understanding cognition is not just about abstract logic or symbol manipulation — it's also about how our **bodies, brains, and environments** shape the way we think, speak, and understand the world.
+
+## Who am I
+
+
