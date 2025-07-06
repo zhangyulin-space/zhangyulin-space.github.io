@@ -16,3 +16,4 @@ Welcome to my cognitive psychology notes. Click below to explore:
 - [Symbol Grounding Problem](./symbol_grounding_problem/)
 - [Testing Embodied Cognition](./testing_embodiment/)
 - [About Chat Ferry](./about_chat_ferry/)
+- [Chat Ferry story](./chat_ferry_story/)
