@@ -17,3 +17,4 @@ Welcome to my cognitive psychology notes. Click below to explore:
 - [Testing Embodied Cognition](./testing_embodiment/)
 - [About Chat Ferry](./about_chat_ferry/)
 - [Chat Ferry story](./chat_ferry_story/)
+- [The Chicken Flock Effect](./chicken_flock_effect/)
