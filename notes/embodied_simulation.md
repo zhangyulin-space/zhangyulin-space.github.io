@@ -1,6 +1,7 @@
 ---
 title: Embodied Simulation Hypothesis
 layout: default
+date: 2024-07-24
 ---
 
 # 🤖 Embodied Simulation Hypothesis

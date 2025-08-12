@@ -1,6 +1,7 @@
 ---
 title: Perception as Modular
 layout: default
+date: 2024-07-24
 ---
 
 # 🧱 Perception as Modular (Fodor, 1985)

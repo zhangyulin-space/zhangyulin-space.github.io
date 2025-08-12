@@ -31,3 +31,10 @@ nav a:hover {
   background: white;
   border-radius: 8px;
 }
+
+.post-meta {
+  color: #6b7280;
+  font-size: 0.875rem;
+  margin-bottom: 1rem;
+  font-style: italic;
+}

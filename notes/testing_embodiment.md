@@ -1,6 +1,7 @@
 ---
 title: Testing Embodied Cognition
 layout: default
+date: 2024-07-24
 ---
 
 # 🧪 Testing Embodied Cognition

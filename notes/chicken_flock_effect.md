@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Chicken Flock Effect
+date: 2024-07-24
 ---
 
 # The Chicken Flock Effect: How Your Social Circle Shapes Your Destiny

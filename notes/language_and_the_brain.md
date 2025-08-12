@@ -1,6 +1,7 @@
 ---
 title: Language and the Brain
 layout: default
+date: 2024-07-24
 ---
 
 # 🧠 Language and the Brain

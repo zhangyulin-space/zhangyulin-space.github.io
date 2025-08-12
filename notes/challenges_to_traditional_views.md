@@ -1,6 +1,7 @@
 ---
 title: Challenges to Traditional Views of the Mind
 layout: default
+date: 2024-07-24
 ---
 
 # 💥 Challenges to Traditional Views of the Mind

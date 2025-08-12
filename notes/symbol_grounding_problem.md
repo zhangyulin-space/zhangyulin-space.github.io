@@ -1,6 +1,7 @@
 ---
 title: The Symbol Grounding Problem
 layout: default
+date: 2024-07-24
 ---
 
 # 🧠 The Symbol Grounding Problem

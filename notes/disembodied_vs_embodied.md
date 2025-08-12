@@ -1,6 +1,7 @@
 ---
 title: Disembodied vs. Embodied Meaning
 layout: default
+date: 2024-07-24
 ---
 
 # 🧠 Disembodied vs. Embodied Meaning

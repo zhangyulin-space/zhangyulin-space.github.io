@@ -11,6 +11,9 @@
   {% include header.html %}
 
   <main class="container">
+    {% if page.date %}
+      <p class="post-meta">{{ page.date | date: "%B %d, %Y" }}</p>
+    {% endif %}
     {{ content }}
   </main>
 
