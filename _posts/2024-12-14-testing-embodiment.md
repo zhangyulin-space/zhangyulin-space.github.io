@@ -1,7 +1,7 @@
 ---
 title: Testing Embodied Cognition
 layout: post
-date: 2024-07-24
+date: 2024-12-14
 ---
 
 # 🧪 Testing Embodied Cognition
@@ -24,16 +24,16 @@ If meaning is embodied, we should be able to test it by looking at how the brain
 
 ---
 
-## �?3. Behavioral Evidence
+## �?3. Behavioral Evidence
 
 - **Interference tasks**: doing a motor task slows comprehension of action words
-- **Response time studies**: people are faster when simulation matches action (e.g. “push�?while pushing)
+- **Response time studies**: people are faster when simulation matches action (e.g. “push�?while pushing)
 
 ---
 
 ## 🧪 4. ERP Studies
 
-- Event-Related Potentials show early activation in modality-specific areas �?within 200ms of reading a word
+- Event-Related Potentials show early activation in modality-specific areas �?within 200ms of reading a word
 - Suggests **automatic simulation**, not post-hoc inference
 
 ---
@@ -50,8 +50,8 @@ If meaning is embodied, we should be able to test it by looking at how the brain
 
 ## 💭 6. My Thoughts
 
-It’s amazing that **just reading** a word like “run�?can activate the same brain areas as **actually running**. This gives real weight to the idea that **understanding = simulation**.
+It’s amazing that **just reading** a word like “run�?can activate the same brain areas as **actually running**. This gives real weight to the idea that **understanding = simulation**.
 
-Embodiment isn’t just a theory �?it’s a measurable, testable process.
+Embodiment isn’t just a theory �?it’s a measurable, testable process.
 
 ---

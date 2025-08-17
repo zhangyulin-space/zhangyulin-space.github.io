@@ -1,7 +1,7 @@
 ---
 title: Perception as Modular
 layout: post
-date: 2024-07-24
+date: 2024-09-15
 ---
 
 # ğŸ§± Perception as Modular (Fodor, 1985)
@@ -16,14 +16,14 @@ A "module" is a **domain-specific, fast, automatic, and cognitively impenetrable
 
 ### Core Features:
 
-- **Fast** â€?operates quickly and efficiently
-- **Automatic** â€?triggered by stimuli
-- **Encapsulated** â€?not affected by beliefs or expectations
-- **Domain-specific** â€?handles only one kind of input (e.g. faces, sounds)
+- **Fast** ï¿½?operates quickly and efficiently
+- **Automatic** ï¿½?triggered by stimuli
+- **Encapsulated** ï¿½?not affected by beliefs or expectations
+- **Domain-specific** ï¿½?handles only one kind of input (e.g. faces, sounds)
 
 ---
 
-## ğŸ‘ï¸?2. Examples of Perceptual Modules
+## ğŸ‘ï¿½?2. Examples of Perceptual Modules
 
 - **Face perception**
 - **Color vision**
@@ -55,7 +55,7 @@ Embodied cognition challenges this view:
 
 ## ğŸ’­ 5. My Thoughts
 
-Fodorâ€™s theory is elegant, but perhaps too rigid. In real life, our expectations **do** change what we see â€?think of optical illusions or how mood affects perception.
+Fodorâ€™s theory is elegant, but perhaps too rigid. In real life, our expectations **do** change what we see ï¿½?think of optical illusions or how mood affects perception.
 
 Maybe modules exist, but they interact more than Fodor believed. The line between perception and thought may be **blurrier** than he imagined.
 

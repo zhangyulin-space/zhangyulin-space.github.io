@@ -1,7 +1,7 @@
 ---
 title: Challenges to Traditional Views of the Mind
 layout: post
-date: 2024-07-24
+date: 2024-10-16
 ---
 
 # 💥 Challenges to Traditional Views of the Mind
@@ -34,13 +34,13 @@ If the brain and body matter, then:
 
 - Psychology must consider **neurobiology**
 - AI must include **perception and action**
-- Language is not just syntax �?it’s **experience-based**
+- Language is not just syntax �?it’s **experience-based**
 
 ---
 
 ## 💭 4. My Thoughts
 
-This shift feels like a revolution. It reminds me that cognition isn’t just “thinking�?in the abstract �?it’s **living**, **acting**, **perceiving**, and **feeling**.
+This shift feels like a revolution. It reminds me that cognition isn’t just “thinking�?in the abstract �?it’s **living**, **acting**, **perceiving**, and **feeling**.
 
 A truly intelligent system must be **embodied**, not just symbolic.
 

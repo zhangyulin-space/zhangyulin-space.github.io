@@ -1,7 +1,7 @@
 ---
 title: Embodied Simulation Hypothesis
 layout: post
-date: 2024-07-24
+date: 2024-10-14
 ---
 
 # ðŸ¤– Embodied Simulation Hypothesis
@@ -14,7 +14,7 @@ The **simulation hypothesis** offers a radical rethinking of how we understand c
 
 Simulation is the brainâ€™s ability to **recreate past sensory-motor experiences** in the absence of direct input.
 
-> To remember â€œappleâ€?is to simulate how it looks, feels, tastes.
+> To remember â€œappleï¿½?is to simulate how it looks, feels, tastes.
 
 ---
 
@@ -22,7 +22,7 @@ Simulation is the brainâ€™s ability to **recreate past sensory-motor experiences
 
 - Concepts are not stored as static definitions
 - Instead, we **simulate** relevant experiences
-- Thinking = â€œreplayingâ€?aspects of perception and action
+- Thinking = â€œreplayingï¿½?aspects of perception and action
 
 ---
 
@@ -36,16 +36,16 @@ Simulation is the brainâ€™s ability to **recreate past sensory-motor experiences
 
 ## ðŸ’¡ 4. Examples
 
-- Hearing "bark" â†?simulate sound (auditory)
-- Reading "run" â†?simulate movement (motor)
-- Reading "sunset" â†?simulate colors/scenery (visual)
+- Hearing "bark" ï¿½?simulate sound (auditory)
+- Reading "run" ï¿½?simulate movement (motor)
+- Reading "sunset" ï¿½?simulate colors/scenery (visual)
 
 ---
 
 ## ðŸ’­ 5. My Reflection
 
-This changed my view of thinking. I used to imagine the brain as a computer sorting symbols. But now I see it as a **re-experiencing machine** â€?using the past to make sense of the present.
+This changed my view of thinking. I used to imagine the brain as a computer sorting symbols. But now I see it as a **re-experiencing machine** ï¿½?using the past to make sense of the present.
 
-Simulation is not just a metaphor â€?itâ€™s a **neural reality**.
+Simulation is not just a metaphor ï¿½?itâ€™s a **neural reality**.
 
 ---

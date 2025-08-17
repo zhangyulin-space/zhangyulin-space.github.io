@@ -1,7 +1,7 @@
 ---
 title: The Symbol Grounding Problem
 layout: post
-date: 2024-07-24
+date: 2024-11-4
 ---
 
 # 🧠 The Symbol Grounding Problem
@@ -17,7 +17,7 @@ This deceptively simple question reveals a major challenge in both psychology an
 - Dictionaries define symbols **in terms of other symbols**
 - This leads to an **infinite loop** of definitions
 
-So how does a child (or a robot) really learn what “apple�?means?
+So how does a child (or a robot) really learn what “apple�?means?
 
 ---
 
@@ -39,7 +39,7 @@ So how does a child (or a robot) really learn what “apple�?means?
 
 ## 🧠 4. Real-World Learning
 
-Children don’t learn “apple�?by reading a dictionary �?they **see**, **taste**, and **hold** apples.
+Children don’t learn “apple�?by reading a dictionary �?they **see**, **taste**, and **hold** apples.
 
 This **multisensory experience grounds** the word in something meaningful.
 
@@ -55,7 +55,7 @@ This **multisensory experience grounds** the word in something meaningful.
 
 ## 💭 6. My Reflection
 
-This idea stuck with me. It made me realize that **words don’t live in dictionaries** �?they live in our bodies and brains.
+This idea stuck with me. It made me realize that **words don’t live in dictionaries** �?they live in our bodies and brains.
 
 Grounding is what makes language **real** and usable.
 

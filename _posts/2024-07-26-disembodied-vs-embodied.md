@@ -1,12 +1,12 @@
 ---
 title: Disembodied vs. Embodied Meaning
 layout: post
-date: 2024-07-24
+date: 2024-07-26
 ---
 
 # ðŸ§  Disembodied vs. Embodied Meaning
 
-One of the core debates in cognitive psychology is whether the meanings of words and concepts are stored as abstract, disembodied symbols â€?or whether they are grounded in sensory and motor experiences. This distinction has major implications for how we understand language, memory, and thought.
+One of the core debates in cognitive psychology is whether the meanings of words and concepts are stored as abstract, disembodied symbols ï¿½?or whether they are grounded in sensory and motor experiences. This distinction has major implications for how we understand language, memory, and thought.
 
 ---
 
@@ -26,7 +26,7 @@ One of the core debates in cognitive psychology is whether the meanings of words
 
 ### ðŸ’¬ Example
 
-Understanding the word â€œappleâ€?involves accessing a **mental dictionary entry**, not necessarily simulating how it looks, tastes, or smells.
+Understanding the word â€œappleï¿½?involves accessing a **mental dictionary entry**, not necessarily simulating how it looks, tastes, or smells.
 
 ---
 
@@ -46,13 +46,13 @@ Understanding the word â€œappleâ€?involves accessing a **mental dictionary entry
 
 ### ðŸ’¬ Example
 
-Understanding the word â€œkickâ€?involves **activating motor areas** responsible for leg movement â€?as if you're mentally simulating the action.
+Understanding the word â€œkickï¿½?involves **activating motor areas** responsible for leg movement ï¿½?as if you're mentally simulating the action.
 
 ---
 
 ## ðŸ” 3. Why This Matters
 
-This distinction is more than theoretical â€?it has practical consequences for:
+This distinction is more than theoretical ï¿½?it has practical consequences for:
 
 - **Neuroscience**: What brain regions are involved in language?
 - **AI and NLP**: Should machines simulate perception to understand language?
@@ -65,13 +65,13 @@ This distinction is more than theoretical â€?it has practical consequences for:
 ### ðŸ§ª Brain Imaging Studies
 
 - **fMRI** shows that reading action verbs activates **motor cortex**.
-- Viewing words like â€œredâ€?activates **visual cortex**.
+- Viewing words like â€œredï¿½?activates **visual cortex**.
 - Hearing-related words activate **auditory cortex**.
 
 ### ðŸ‘ Behavioral Studies
 
-- People are faster at understanding words when they match their simulated context (e.g. â€œpushâ€?vs. â€œpullâ€?.
-- Motor interference during comprehension tasks slows processing of related words â€?supporting simulation.
+- People are faster at understanding words when they match their simulated context (e.g. â€œpushï¿½?vs. â€œpullï¿½?.
+- Motor interference during comprehension tasks slows processing of related words ï¿½?supporting simulation.
 
 ---
 
@@ -88,18 +88,18 @@ This distinction is more than theoretical â€?it has practical consequences for:
 
 ## ðŸ’­ 6. My Reflections
 
-Learning this distinction challenged my assumptions about what words â€œmean.â€?I used to think that meaning was something static â€?like a definition stored in my mind. But after learning about embodied cognition, I realize that **meaning is dynamic**; itâ€™s something we construct on the fly by reactivating relevant experiences.
+Learning this distinction challenged my assumptions about what words â€œmean.ï¿½?I used to think that meaning was something static ï¿½?like a definition stored in my mind. But after learning about embodied cognition, I realize that **meaning is dynamic**; itâ€™s something we construct on the fly by reactivating relevant experiences.
 
-When I hear the word "swim," I can almost feel the water. That feeling isnâ€™t just poetic â€?it may actually be what understanding is made of.
+When I hear the word "swim," I can almost feel the water. That feeling isnâ€™t just poetic ï¿½?it may actually be what understanding is made of.
 
-I now see language not just as a code, but as a **reconstruction of experience**. That makes language feel more alive â€?and more human.
+I now see language not just as a code, but as a **reconstruction of experience**. That makes language feel more alive ï¿½?and more human.
 
 ---
 
-## âœ?Final Thought
+## ï¿½?Final Thought
 
-> â€œThe meaning of a word is the set of mental simulations it evokes.â€?â€?A principle of embodied cognition
+> â€œThe meaning of a word is the set of mental simulations it evokes.ï¿½?ï¿½?A principle of embodied cognition
 
-Understanding this helps me see why words are powerful â€?not because they point to definitions, but because they recreate **experiences** in the mind of the listener.
+Understanding this helps me see why words are powerful ï¿½?not because they point to definitions, but because they recreate **experiences** in the mind of the listener.
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: Modality-Specific vs. Modality-Nonspecific Brain Areas
 layout: post
-date: 2024-07-24
+date: 2024-08-20
 ---
 
 # 🧠 Modality-Specific vs. Modality-Nonspecific Brain Areas
@@ -43,7 +43,7 @@ They are involved in **thinking, language, reasoning, and decision-making**.
 
 Embodied cognition suggests that even abstract thinking involves **reactivation of sensory/motor traces** from modality-specific areas.
 
-So, understanding the word “climb�?might involve:
+So, understanding the word “climb�?might involve:
 
 - Motor cortex (legs/arms)
 - Visual cortex (seeing a ladder)
@@ -53,7 +53,7 @@ So, understanding the word “climb�?might involve:
 
 ## 💭 4. My Reflection
 
-Before this, I thought “thinking�?was mostly done in prefrontal areas �?like high-level command centers. But now I realize that even abstract thoughts are built on **low-level sensory-motor foundations**.
+Before this, I thought “thinking�?was mostly done in prefrontal areas �?like high-level command centers. But now I realize that even abstract thoughts are built on **low-level sensory-motor foundations**.
 
 It’s like the brain is a symphony of specialized parts, and even the conductor (prefrontal cortex) relies on the orchestra (sensory/motor areas) to produce meaning.
 

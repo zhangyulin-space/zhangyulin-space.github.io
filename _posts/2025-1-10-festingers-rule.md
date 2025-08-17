@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Festinger's Rule
-date: 2024-07-24
+date: 2025-1-10
 ---
 
 # Festinger's Rule: The Power of Emotional Response
