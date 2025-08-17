@@ -1,0 +1,103 @@
+---
+title: Language and the Brain
+layout: post
+date: 2024-07-24
+---
+
+# ðŸ§  Language and the Brain
+
+Understanding how language is represented and processed in the brain is one of the foundational questions in cognitive psychology and cognitive neuroscience. Language is not just a symbolic system â€?it is deeply embedded in our neural architecture, and its study reveals important insights into how the mind works.
+
+---
+
+## ðŸ“Œ Main Topics Covered
+
+- Key brain regions for language
+- The classic Wernicke-Geschwind model
+- Left hemisphere dominance
+- Brain imaging evidence
+- Embodied vs. disembodied views of language
+- Personal reflections
+
+---
+
+## ðŸ§© 1. Key Brain Regions Involved in Language
+
+Language processing recruits a network of brain areas, particularly in the **left hemisphere** for most right-handed individuals.
+
+### ðŸ§  Wernickeâ€™s Area
+
+- Located in the posterior part of the left superior temporal gyrus.
+- Primarily involved in **language comprehension**.
+- Damage leads to **Wernickeâ€™s aphasia**: fluent but meaningless speech.
+
+### ðŸ§  Brocaâ€™s Area
+
+- Located in the left inferior frontal gyrus.
+- Responsible for **language production and syntax**.
+- Damage causes **Brocaâ€™s aphasia**: effortful speech with impaired structure.
+
+### ðŸ§  Other Involved Areas
+
+- **Primary auditory cortex**: processes incoming speech sounds.
+- **Primary motor cortex**: controls speech articulation (mouth, tongue).
+- **Visual cortex**: involved in reading and visual word recognition.
+- **Angular gyrus & supramarginal gyrus**: multimodal integration.
+
+---
+
+## ðŸ§  2. The Classic Wernicke-Geschwind Model
+
+This model proposes a flow of language processing like this:
+
+**Hearing â†?Auditory Cortex â†?Wernickeâ€™s Area â†?Arcuate Fasciculus â†?Brocaâ€™s Area â†?Motor Cortex â†?Speaking**
+
+While outdated in some ways, it laid the groundwork for studying **modular language functions** in the brain.
+
+---
+
+## ðŸ‘ˆ 3. Left Hemisphere Dominance
+
+- **Left-lateralization** is typical for language (~95% of right-handers).
+- Brain imaging studies (fMRI, PET) show:
+  - Left temporal regions active during comprehension
+  - Left frontal regions active during production
+
+**Interesting note**: Some left-handers and bilinguals may show more bilateral or right-hemisphere involvement.
+
+---
+
+## ðŸŒ 4. Language as an Embodied Function?
+
+Traditional views treat language as a **symbolic and abstract** system â€?stored and manipulated in dedicated "language areas."
+
+However, **embodied cognition** suggests:
+
+> Language is grounded in sensory and motor systems.
+
+For example:
+
+- Understanding the word â€œkickâ€?may activate **motor areas** related to leg movement.
+- Words like â€œbrightâ€?or â€œloudâ€?may activate **visual or auditory cortex**.
+
+---
+
+## ðŸ’¬ 5. Personal Reflections
+
+Learning about how the brain processes language has changed the way I think about communication. I used to believe that language was just â€œmental codeâ€?â€?a string of symbols stored somewhere in the brain. But the more I study cognitive neuroscience, the more I realize that language is a **dynamic, distributed, and embodied process**.
+
+Language is not just stored in â€œlanguage centers,â€?but involves **perception, action, and memory** systems across the brain.
+
+When I read a word like â€œrun,â€?I donâ€™t just understand it as an abstract concept â€?part of my brain is simulating what it feels like to run. Thatâ€™s both fascinating and humbling.
+
+---
+
+## âœï¸ Final Thoughts
+
+The study of language and the brain reminds me that human cognition is not purely logical or computational â€?it's rooted in our biology, our bodies, and our experiences.
+
+Understanding these neural mechanisms doesnâ€™t just help us treat aphasia or build brain-computer interfaces â€?it also helps us understand **what it means to understand**.
+
+> â€œTo speak is to think with your body.â€?â€?A thought I now come to appreciate deeply.
+
+---

@@ -38,3 +38,31 @@ nav a:hover {
   margin-bottom: 1rem;
   font-style: italic;
 }
+
+.post-date {
+  color: #888;
+  font-size: 0.85em;
+  margin-left: 10px;
+  font-style: italic;
+}
+
+.post-content h2 {
+  color: #333;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 5px;
+  margin-top: 2em;
+}
+
+.post-content ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.post-content ul li {
+  padding: 5px 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.post-content ul li:last-child {
+  border-bottom: none;
+}

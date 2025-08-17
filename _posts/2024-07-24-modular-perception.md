@@ -1,0 +1,62 @@
+---
+title: Perception as Modular
+layout: post
+date: 2024-07-24
+---
+
+# ðŸ§± Perception as Modular (Fodor, 1985)
+
+Jerry Fodorâ€™s theory of modularity argues that **perception is carried out by specialized, encapsulated modules** in the brain. This has major implications for how we understand the mind.
+
+---
+
+## ðŸ§  1. What Is a Module?
+
+A "module" is a **domain-specific, fast, automatic, and cognitively impenetrable** processing unit.
+
+### Core Features:
+
+- **Fast** â€?operates quickly and efficiently
+- **Automatic** â€?triggered by stimuli
+- **Encapsulated** â€?not affected by beliefs or expectations
+- **Domain-specific** â€?handles only one kind of input (e.g. faces, sounds)
+
+---
+
+## ðŸ‘ï¸?2. Examples of Perceptual Modules
+
+- **Face perception**
+- **Color vision**
+- **Speech recognition**
+- **Depth perception**
+
+These modules work independently of our conscious thoughts.
+
+---
+
+## ðŸ§  3. Perception vs. Cognition (Fodorâ€™s View)
+
+| Feature        | Perception (Modular) | Cognition (Central)    |
+|----------------|-----------------------|-------------------------|
+| Speed          | Fast                  | Slow                    |
+| Flexibility    | Inflexible            | Flexible                |
+| Interactivity  | None                  | High                    |
+| Format         | Sensory               | Abstract                |
+
+---
+
+## ðŸ¤” 4. Embodied Challenge
+
+Embodied cognition challenges this view:
+
+> If cognition involves **simulation**, and simulation involves **perception**, then perception and cognition are not separate.
+
+---
+
+## ðŸ’­ 5. My Thoughts
+
+Fodorâ€™s theory is elegant, but perhaps too rigid. In real life, our expectations **do** change what we see â€?think of optical illusions or how mood affects perception.
+
+Maybe modules exist, but they interact more than Fodor believed. The line between perception and thought may be **blurrier** than he imagined.
+
+---
