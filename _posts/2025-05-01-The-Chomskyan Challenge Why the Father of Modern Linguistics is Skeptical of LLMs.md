@@ -1,5 +1,5 @@
 ---
-title: The Chomskyan Challenge: Why the Father of Modern Linguistics is Skeptical of LLMs
+title: "The Chomskyan Challenge: Why the Father of Modern Linguistics is Skeptical of LLMs"
 layout: post
 date: 2025-05-01
 ---

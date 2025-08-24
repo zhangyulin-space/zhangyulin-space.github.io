@@ -1,5 +1,5 @@
 ---
-title: The Agentic Leap: Does Giving LLMs 'Agency' Bridge the Cognitive Gap?
+title: "The Agentic Leap: Does Giving LLMs 'Agency' Bridge the Cognitive Gap?"
 layout: post
 date: 2025-05-03
 ---
