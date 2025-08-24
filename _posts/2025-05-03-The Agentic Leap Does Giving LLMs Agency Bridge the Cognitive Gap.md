@@ -6,6 +6,11 @@ date: 2025-05-03
 
 # **Study Note 3: The Agentic Leap: Does Giving LLMs 'Agency' Bridge the Cognitive Gap?**
 
+**视频来源：** [https://www.youtube.com/watch?v=GxZp6890hQk](https://www.youtube.com/watch?v=GxZp6890hQk)
+
+*本笔记内容基于对上述视频的学习整理*
+
+
 **1. The Next Frontier: Agentic AI**
 
 The latest evolution in AI, such as the capabilities projected for models like GPT-5, is the addition of **agentic capabilities**. This moves an LLM from a passive "chatbot" to an active "agent" that can pursue complex goals. This development seems to directly address the criticism that LLMs are merely passive prediction machines.

@@ -6,6 +6,10 @@ date: 2025-05-01
 
 # **Study Note 1: The Chomskyan Challenge: Why the Father of Modern Linguistics is Skeptical of LLMs**
 
+**视频来源：** [https://www.youtube.com/watch?v=GxZp6890hQk](https://www.youtube.com/watch?v=GxZp6890hQk)
+
+*本笔记内容基于对上述视频的学习整理*
+
 **1. Who is Noam Chomsky?**
 
 Noam Chomsky is one of the most influential intellectuals of the 20th and 21st centuries. His work revolutionized the field of linguistics and laid the groundwork for modern cognitive science. Before Chomsky, language was often seen as a learned behavior, acquired through imitation and reinforcement (behaviorism).

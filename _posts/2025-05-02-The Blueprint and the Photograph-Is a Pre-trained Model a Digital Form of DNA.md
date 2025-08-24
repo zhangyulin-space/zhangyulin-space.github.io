@@ -6,6 +6,10 @@ date: 2025-05-02
 
 # **Study Note 2: The Blueprint and the Photograph: Is a Pre-trained Model a Digital Form of DNA?**
 
+**视频来源：** [https://www.youtube.com/watch?v=GxZp6890hQk](https://www.youtube.com/watch?v=GxZp6890hQk)
+
+*本笔记内容基于对上述视频的学习整理*
+
 **1. The Alluring Analogy**
 
 The idea that a pre-trained LLM is analogous to the human cognitive system endowed by DNA is powerful and intuitive. Both seem to serve as a foundational, general-purpose starting point from which specific skills and knowledge can develop.

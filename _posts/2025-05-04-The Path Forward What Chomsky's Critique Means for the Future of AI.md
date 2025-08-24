@@ -7,6 +7,10 @@ date: 2025-05-04
 
 # **Study Note 4: The Path Forward: What Chomsky's Critique Means for the Future of AI**
 
+**视频来源：** [https://www.youtube.com/watch?v=GxZp6890hQk](https://www.youtube.com/watch?v=GxZp6890hQk)
+
+*本笔记内容基于对上述视频的学习整理*
+
 **1. Introduction: A Signpost, Not a Stop Sign**
 
 Noam Chomsky's critique of AI should not be seen as a pessimistic rejection of progress. Instead, it should be viewed as a crucial **signpost**, pointing out the potential limitations of the current paradigm and suggesting alternative paths toward a more robust and genuine form of intelligence. His ideas offer profound implications for the future of AI research and development.
