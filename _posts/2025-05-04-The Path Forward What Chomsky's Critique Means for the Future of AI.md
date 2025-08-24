@@ -1,7 +1,7 @@
 ---
 title: The Path Forward: What Chomsky's Critique Means for the Future of AI
 layout: post
-date: 2025-5-4
+date: 2025-05-04
 ---
 
 

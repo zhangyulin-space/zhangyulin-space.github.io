@@ -1,7 +1,7 @@
 ---
 title: The Blueprint and the Photograph: Is a Pre-trained Model a Digital Form of DNA?
 layout: post
-date: 2025-5-2
+date: 2025-05-02
 ---
 
 # **Study Note 2: The Blueprint and the Photograph: Is a Pre-trained Model a Digital Form of DNA?**
