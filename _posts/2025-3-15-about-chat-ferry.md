@@ -5,7 +5,7 @@ date: 2025-3-15
 ---
 # About ChatFerry Game
 
-![ChatFerry](attachments/迷雾城png.png) is a philosophical dialogue-driven adventure game that takes players on a profound journey of cognitive awakening and self-discovery.
+![ChatFerry](/assets/images/迷雾城png.png) is a philosophical dialogue-driven adventure game that takes players on a profound journey of cognitive awakening and self-discovery.
 
 ## Overview
 
