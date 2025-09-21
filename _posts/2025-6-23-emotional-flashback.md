@@ -1,5 +1,5 @@
 ---
-title: Emotional Flashbacks: Why Parents' Words Trigger Our Strongest Reactions
+title: "Emotional Flashbacks: Why Parents' Words Trigger Our Strongest Reactions"
 layout: post
 date: 2025-06-23
 ---
