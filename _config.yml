@@ -1,7 +1,7 @@
 title: "Cognitive Psychology Notes"
 description: "Learning notes on cognitive science, language, and embodied cognition"
 baseurl: "" # For user.github.io repo, leave this empty
-url: "https://zhangyunlin-space.github.io"
+url: "https://zhangyulin-space.github.io"
 theme: minima
 
 markdown: kramdown
