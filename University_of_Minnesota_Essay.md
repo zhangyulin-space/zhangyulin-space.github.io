@@ -1,0 +1,5 @@
+My interest in psychology stems from a simple belief: to understand society, we must first understand the mind. I aim to build mental‑health tools that bridge rigorous science and human understanding.
+
+At the University of Minnesota, I will major in Psychology with a Computer Science minor, turning rigorous methods into tools that help people. In Summer 2025, I trained in the CIS NanoMasters in cognitive psychology. Developing ChatFerry—an open‑source game that fosters delayed gratification—strengthened my commitment to experimentation and showed how design and data reshape behavior with empathy.
+
+UMN’s Cognitive and Brain Sciences and Center for Cognitive Sciences emphasize quantitative methods, computational modeling, and interdisciplinary collaboration, aligning with my goals. I’m eager to collaborate across labs on real‑world interventions. Long‑term, I will weave evidence with empathy, turning insights about individual minds into inclusive supports.
