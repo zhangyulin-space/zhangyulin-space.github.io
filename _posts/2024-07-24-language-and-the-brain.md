@@ -6,7 +6,7 @@ date: 2024-07-24
 
 # ðŸ§  Language and the Brain
 
-Understanding how language is represented and processed in the brain is one of the foundational questions in cognitive psychology and cognitive neuroscience. Language is not just a symbolic system â€?it is deeply embedded in our neural architecture, and its study reveals important insights into how the mind works.
+Understanding how language is represented and processed in the brain is one of the foundational questions in cognitive psychology and cognitive neuroscience. Language is not just a symbolic system ï¿½?it is deeply embedded in our neural architecture, and its study reveals important insights into how the mind works.
 
 ---
 
@@ -50,7 +50,7 @@ Language processing recruits a network of brain areas, particularly in the **lef
 
 This model proposes a flow of language processing like this:
 
-**Hearing â†?Auditory Cortex â†?Wernickeâ€™s Area â†?Arcuate Fasciculus â†?Brocaâ€™s Area â†?Motor Cortex â†?Speaking**
+**Hearing ï¿½?Auditory Cortex ï¿½?Wernickeâ€™s Area ï¿½?Arcuate Fasciculus ï¿½?Brocaâ€™s Area ï¿½?Motor Cortex ï¿½?Speaking**
 
 While outdated in some ways, it laid the groundwork for studying **modular language functions** in the brain.
 
@@ -69,7 +69,7 @@ While outdated in some ways, it laid the groundwork for studying **modular langu
 
 ## ðŸŒ 4. Language as an Embodied Function?
 
-Traditional views treat language as a **symbolic and abstract** system â€?stored and manipulated in dedicated "language areas."
+Traditional views treat language as a **symbolic and abstract** system ï¿½?stored and manipulated in dedicated "language areas."
 
 However, **embodied cognition** suggests:
 
@@ -77,27 +77,27 @@ However, **embodied cognition** suggests:
 
 For example:
 
-- Understanding the word â€œkickâ€?may activate **motor areas** related to leg movement.
-- Words like â€œbrightâ€?or â€œloudâ€?may activate **visual or auditory cortex**.
+- Understanding the word â€œkickï¿½?may activate **motor areas** related to leg movement.
+- Words like â€œbrightï¿½?or â€œloudï¿½?may activate **visual or auditory cortex**.
 
 ---
 
 ## ðŸ’¬ 5. Personal Reflections
 
-Learning about how the brain processes language has changed the way I think about communication. I used to believe that language was just â€œmental codeâ€?â€?a string of symbols stored somewhere in the brain. But the more I study cognitive neuroscience, the more I realize that language is a **dynamic, distributed, and embodied process**.
+Learning about how the brain processes language has changed the way I think about communication. I used to believe that language was just â€œmental codeï¿½?ï¿½?a string of symbols stored somewhere in the brain. But the more I study cognitive neuroscience, the more I realize that language is a **dynamic, distributed, and embodied process**.
 
-Language is not just stored in â€œlanguage centers,â€?but involves **perception, action, and memory** systems across the brain.
+Language is not just stored in â€œlanguage centers,ï¿½?but involves **perception, action, and memory** systems across the brain.
 
-When I read a word like â€œrun,â€?I donâ€™t just understand it as an abstract concept â€?part of my brain is simulating what it feels like to run. Thatâ€™s both fascinating and humbling.
+When I read a word like â€œrun,ï¿½?I donâ€™t just understand it as an abstract concept ï¿½?part of my brain is simulating what it feels like to run. Thatâ€™s both fascinating and humbling.
 
 ---
 
 ## âœï¸ Final Thoughts
 
-The study of language and the brain reminds me that human cognition is not purely logical or computational â€?it's rooted in our biology, our bodies, and our experiences.
+The study of language and the brain reminds me that human cognition is not purely logical or computational ï¿½?it's rooted in our biology, our bodies, and our experiences.
 
-Understanding these neural mechanisms doesnâ€™t just help us treat aphasia or build brain-computer interfaces â€?it also helps us understand **what it means to understand**.
+Understanding these neural mechanisms doesnâ€™t just help us treat aphasia or build brain-computer interfaces ï¿½?it also helps us understand **what it means to understand**.
 
-> â€œTo speak is to think with your body.â€?â€?A thought I now come to appreciate deeply.
+> â€œTo speak is to think with your body.ï¿½?ï¿½?A thought I now come to appreciate deeply.
 
 ---

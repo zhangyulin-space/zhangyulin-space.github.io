@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Cognitive Psychology Notes</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f9fafb;
+      color: #111827;
+      line-height: 1.6;
+    }
+    header {
+      background-color: #1f2937;
+      color: white;
+      padding: 1rem 2rem;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 1.8rem;
+    }
+    nav {
+      margin-top: 0.5rem;
+    }
+    nav a {
+      color: #93c5fd;
+      text-decoration: none;
+      margin-right: 1.5rem;
+      font-weight: 500;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    main {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 1.5rem;
+    }
+    h2 {
+      color: #1d4ed8;
+      margin-top: 2rem;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9rem;
+      color: #6b7280;
+      margin: 3rem 0 1rem;
+    }
+    @media (max-width: 600px) {
+      header, main {
+        padding: 1rem;
+      }
+      nav a {
+        display: block;
+        margin: 0.5rem 0;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Cognitive Psychology Notes</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#topics">Topics</a>
+      <a href="#resources">Resources</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>About This Site</h2>
+      <p>
+        Welcome! This is my personal collection of study notes on <strong>Cognitive Psychology</strong>,
+        with a focus on <em>Embodied Cognition</em>, language, perception, and the relationships between mind, brain, and body.
+      </p>
+      <p>
+        These notes are based on university lectures, academic readings, and my own reflections as I explore how thinking and meaning are shaped by our sensory and motor systems.
+      </p>
+    </section>
+
+    <section id="topics">
+      <h2>Topics Covered</h2>
+      <ul>
+        <li>Language and the brain</li>
+        <li>Disembodied vs. embodied meaning</li>
+        <li>Symbol grounding problem</li>
+        <li>Simulation theory</li>
+        <li>Brain areas for perception, action, and language</li>
+        <li>Fodor vs. Barsalou: Competing mind models</li>
+        <li>Research strategies in embodied cognition</li>
+      </ul>
+    </section>
+
+    <section id="resources">
+      <h2>Resources</h2>
+      <p>
+        You can view the notes in Markdown format directly from the GitHub repository,
+        or use them in your own study tools like Obsidian or Notion.
+      </p>
+      <ul>
+        <li><a href="https://github.com/zhangyulin-space/your-repo-name" target="_blank">View on GitHub</a></li>
+        <li><a href="https://zhangyulin-space.github.io/your-repo-name/notes">Browse Notes</a></li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>
+        Questions, suggestions, or feedback? Feel free to reach out via GitHub Issues or email me at:  
+        <code>zhangyulin0208@gmail.com</code>
+    </p>
+
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 Your Name · Built with ❤️ and curiosity
+  </footer>
+</body>
+</html>
