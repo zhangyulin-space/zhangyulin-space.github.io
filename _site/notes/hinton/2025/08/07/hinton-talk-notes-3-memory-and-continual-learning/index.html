@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Geoffrey Hinton Talk Notes 3 — Memory and Continual Learning | My Space</title>
+  <link rel="stylesheet" href="/assets/style.css">
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Geoffrey Hinton Talk Notes 3 — Memory and Continual Learning | My Space</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="Geoffrey Hinton Talk Notes 3 — Memory and Continual Learning" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Geoffrey Hinton Talk Notes 3 — Memory and Continual Learning" />
+<meta property="og:description" content="Geoffrey Hinton Talk Notes 3 — Memory and Continual Learning" />
+<link rel="canonical" href="http://localhost:4000/notes/hinton/2025/08/07/hinton-talk-notes-3-memory-and-continual-learning/" />
+<meta property="og:url" content="http://localhost:4000/notes/hinton/2025/08/07/hinton-talk-notes-3-memory-and-continual-learning/" />
+<meta property="og:site_name" content="My Space" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-08-07T00:00:00+08:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Geoffrey Hinton Talk Notes 3 — Memory and Continual Learning" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2025-08-07T00:00:00+08:00","datePublished":"2025-08-07T00:00:00+08:00","description":"Geoffrey Hinton Talk Notes 3 — Memory and Continual Learning","headline":"Geoffrey Hinton Talk Notes 3 — Memory and Continual Learning","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/notes/hinton/2025/08/07/hinton-talk-notes-3-memory-and-continual-learning/"},"url":"http://localhost:4000/notes/hinton/2025/08/07/hinton-talk-notes-3-memory-and-continual-learning/"}</script>
+<!-- End Jekyll SEO tag -->
+
+</head>
+<body>
+  <header>
+  <h1><a href="/">My Space</a></h1>
+  <nav>
+    <a href="/">My Space</a>
+    <a href="/notes/">Notes</a>
+    <a href="/study-group/">Study Group</a>
+    <a href="/cycling/">Cycling</a>
+    <a href="/papers/">Papers</a>
+    <a href="https://github.com/zhangyulin-space/zhangyulin-space.github.io">GitHub</a>
+  </nav>
+</header>
+
+
+  <main class="container">
+    
+      <p class="post-meta">August 07, 2025</p>
+    
+    <article class="post">
+  <header class="post-header">
+    <h1 class="post-title">Geoffrey Hinton Talk Notes 3 — Memory and Continual Learning</h1>
+    <div class="post-meta">
+      <time datetime="2025-08-07T00:00:00+08:00">August 07, 2025</time>
+    </div>
+  </header>
+  
+  <div class="post-content">
+    <h1 id="geoffrey-hinton-talk-notes-3--memory-and-continual-learning">Geoffrey Hinton Talk Notes 3 — Memory and Continual Learning</h1>
+
+<p>Video: https://www.youtube.com/watch?v=6fvXWG9Auyg</p>
+
+<p><strong>Core Ideas</strong></p>
+<ul>
+  <li>Catastrophic forgetting: training on new tasks can overwrite older knowledge without safeguards.</li>
+  <li>Consolidation strategies: regularization, replay, and structured memory buffers help preserve past skills.</li>
+  <li>Representation stability vs. plasticity: balancing the need to learn new patterns while keeping old.</li>
+  <li>Forward-forward perspective: exploring more biologically plausible local learning signals.</li>
+</ul>
+
+<p><strong>Cognitive Psychology Connections</strong></p>
+<ul>
+  <li>Memory systems: episodic vs. semantic mirrors buffer vs. weight-level knowledge.</li>
+  <li>Consolidation: sleep-like replay relates to experience reactivation and integration.</li>
+  <li>Interference: proactive/retroactive interference analogizes task overlap in model training.</li>
+</ul>
+
+<p><strong>Mini Examples</strong></p>
+<ul>
+  <li>Continual learning benchmarks (e.g., split datasets) show forgetting without replay.</li>
+  <li>Embedding drift: track how representations shift across sequential tasks.</li>
+</ul>
+
+<p><strong>Study Prompts</strong></p>
+<ul>
+  <li>Implement a simple replay buffer; measure performance retention across tasks.</li>
+  <li>Test regularization methods (EWC/LwF-like ideas) and compare to naive fine-tuning.</li>
+  <li>Explore local learning signals; evaluate convergence and data efficiency on small problems.</li>
+</ul>
+
+<p><strong>Further Reading</strong></p>
+<ul>
+  <li>Surveys on continual learning and memory consolidation in neural networks.</li>
+  <li>Biological learning and synaptic consolidation literature.</li>
+</ul>
+
+  </div>
+</article>
+  </main>
+
+  <footer>
+  <p>&copy; 2025 Zhangyulin · Built with ❤️ and Jekyll</p>
+</footer>
+</body>
+</html>
